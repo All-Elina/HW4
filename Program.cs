@@ -77,3 +77,4 @@ int maxVal = new Random().Next();
 
 int [] array1 = CreatNewArray(countOfElem, minVal, maxVal);
 ShowArray(array1);
+
